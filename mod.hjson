@@ -1,0 +1,9 @@
+{
+"name": "mbd",
+"displayName": "Mindustry Block Descriptions",
+"author": "SMOLKEYS",
+"description": "Gives all mindustry blocks a description.",
+"version": "0.1",
+"minGameVersion": "126",
+"hidden": true
+}
