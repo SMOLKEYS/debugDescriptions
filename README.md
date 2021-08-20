@@ -1,2 +1,2 @@
-# mbd
-Gives all mindustry blocks a description.
+# mdbb
+Gives all mindustry debug blocks a name and description.
