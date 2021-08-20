@@ -1,8 +1,8 @@
 {
-"name": "mbd",
-"displayName": "Mindustry Block Descriptions",
+"name": "mdbb",
+"displayName": "Mindustry Debug Block Bundles",
 "author": "SMOLKEYS",
-"description": "Gives all mindustry blocks a description.",
+"description": "Gives all mindustry debug blocks a name and description.",
 "version": "0.1",
 "minGameVersion": "126",
 "hidden": true
